@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Home Work 4</string>
+    <string name="select_layout_text">Select layout for checkout</string>
+    <!-- Activity names -->
+    <string name="layout1_name">Layout 1</string>
+    <string name="layout2_name">Layout 2</string>
+    <string name="layout3_name">Layout 3</string>
+    <string name="layout4_name">Layout 4</string>
+    <string name="layout5_name">Layout 5</string>
+    <string name="layout6_name">Layout 6</string>
+    <string name="layout7_name">Layout 7</string>
+    <string name="layout8_name">Layout 8</string>
+
+    <!-- Activity 1 -->
+    <string name="title_activity_activity_1">Activity 1 (kinda calc)</string>
+    <string name="rad_text">RAD</string>
+    <string name="title_activity_activity_2">Activity_2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="calc_btn_0">0</string>
+    <string name="calc_btn_1">1</string>
+    <string name="calc_btn_2">2</string>
+    <string name="calc_btn_3">3</string>
+    <string name="calc_btn_4">4</string>
+    <string name="calc_btn_5">5</string>
+    <string name="calc_btn_6">6</string>
+    <string name="calc_btn_7">7</string>
+    <string name="calc_btn_8">8</string>
+    <string name="calc_btn_9">9</string>
+
+    <string name="calc_btn_comma">,</string>
+    <string name="calc_btn_equals">=</string>
+
+    <string name="calc_btn_del">DEL</string>
+    <string name="calc_btn_div">÷</string>
+    <string name="calc_btn_mult">×</string>
+    <string name="calc_btn_minus">-</string>
+    <string name="calc_btn_plus">+</string>
+
+    <!-- 2 -->
+
+    <string name="play_market">Play Market</string>
+    <string name="share">Share</string>
+    <string name="some_text">Some text</string>
+    <string name="achievements">Achievements</string>
+    <string name="players_rating">Players rating</string>
+    <string name="large_text">FROM: MEDIOCRE, the award winning lab behind mind altering experiments SMASH HIT and DOES NOT COMMUTE.<br /><br />
+SUBJECT: Explore the microverse with top scientists from across the world using the revolutionary DIRAC engine.<br /><br />
+MESSAGE: Congratulations!<br /><br />
+Thanks to the Mediated intern opportunity colocation research (MEDIOCRE) laboratory, you have been given the exclusive opportunity to work with DIRAC, the latest in computerized quantum disentanglement technology. You have been granted unlimited and unsupervised access to the DIRAC mkII Quasi-Fibonacci de-unfocusing vectorscope terminal. Through phase-distorted intermodulation inference you will be able to manually disentangle and sort through the macroscopic existence of the microverse.<br />
+Press the appropriately labeled button below to claim your shot at the understated glamour of life as a lab technician (intern).
+    </string>
+    <string name="desc">Description</string>
+
+
+</resources>

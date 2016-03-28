@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Activity 1 -->
+    <style name="CalcButtonMainStyle" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:textSize">30dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="CalcButtonOperatorsStyle" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:textSize">20dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <!-- Activity 2 -->
+    <style name="Caption">
+        <item name="android:textColor">#737373</item>
+        <item name="android:textSize">19dp</item>
+    </style>
+
+    <style name="MarketTopButton" parent="@style/Widget.AppCompat.Button.Borderless">
+    </style>
+
+    <style name="SpecialButtons">
+        <item name="android:textSize">20dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+
+</resources>

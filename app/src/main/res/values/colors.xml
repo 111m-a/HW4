@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorCalcTop">#ffffff</color>
+    <color name="calcMainBtnBackg">#434343</color>
+    <color name="calcOperatorBtnBackg">#636363</color>
+    <color name="calcDrawerBackg">#1DE9B6</color>
+    <color name="radColor">#757575</color>
+
+
+    <color name="ColorPrimary">#00796b</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabsScrollColor">#ffffff</color>
+</resources>
